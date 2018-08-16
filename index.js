@@ -18,10 +18,10 @@ function johnLennonFacts(facts){
 }
 
 function iLoveTheBeatles(num){
-  const empty = []
+  const array = []
   do {
     empty.push("I love the Beatles!")
-    num++    
+    num++
   } while(num< 15)
-  return empty
+  return array
 }
